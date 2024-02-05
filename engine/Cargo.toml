@@ -1,0 +1,13 @@
+# Copyright (c) soynexz. All rights reserved.
+# Check the README file in the project root for more information.
+
+[package]
+name = "engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "engine"
+path = "main.rs"
