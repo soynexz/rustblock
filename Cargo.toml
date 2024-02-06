@@ -2,4 +2,5 @@
 # Check the README file in the project root for more information.
 
 [workspace]
-members = ["engine"]
+members = ["engine", "util"]
+resolver = "2"
