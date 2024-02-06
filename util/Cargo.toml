@@ -1,0 +1,14 @@
+# Copyright (c) soynexz. All rights reserved.
+# Check the README file in the project root for more information.
+
+[package]
+name = "util"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.33"
+env_logger = "0.11.1"
+log = "0.4.20"
+owo-colors = { version = "4.0.0", features = ["supports-colors"] }
+supports-color = "3.0.0"
