@@ -2,7 +2,7 @@
 # Check the README file in the project root for more information.
 
 [package]
-name = "util"
+name = "rustblock_util"
 version = "0.1.0"
 edition = "2021"
 
